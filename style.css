@@ -1,0 +1,170 @@
+body{
+    background-image: url(/images/Girl.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0px
+}
+p{
+    text-align: center;
+    color: white;
+}
+#box1{
+    border: 1px solid;
+    border-color: white;
+    height: 100px;
+    width: 99.89%;
+    background-color: rgb(44, 44, 44);
+    position: sticky;
+    top: 0px;
+}
+#box2{
+    height: 70px;
+    width: 70px;
+    background-image: url(/images/Favicon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+#box3{
+    height: 40px;
+    width: 40px;
+    background-image: url(/images/youtube.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 30px;
+    left: 85%;
+}
+#box4{
+    height: 40px;
+    width: 40px;
+    background-image: url(/images/instagram.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 30px;
+    left: 73%;
+}
+#box5{
+    height: 40px;
+    width: 40px;
+    background-image: url(/images/facebook.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 30px;
+    left: 61%;
+}
+#border1{
+    text-align: center;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: white;
+    height: 2625px;
+    width: 50%;
+    background-color: rgb(44, 44, 44);
+    margin-left: 23%;
+    position: relative;
+}
+#border2{
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+}
+.border2{
+    border-radius: 10px;
+    height: 400px;
+    width: 100.1%;
+    background-image: url(/images/FreeGamesDL.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-right: -1px;
+}
+#border3{
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+    top: 540px;
+}
+.border3{
+    border-radius: 10px;
+    height: 400px;
+    width: 100.1%;
+    background-image: url(/images/RepackGames.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-right: -1px;
+}
+#border4{
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+    top: 1060px;
+}
+.border4{
+    border-radius: 10px;
+    height: 400px;
+    width: 100.1%;
+    background-image: url(/images/gamepciso.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-right: -1px;
+}
+#border5{
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+    top: 1580px;
+}
+.border5{
+    border-radius: 10px;
+    height: 400px;
+    width: 100.1%;
+    background-image: url(/images/Getintopc.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-right: -1px;
+}
+#border6{
+    color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    position: absolute;
+    top: 2100px;
+}
+.border6{
+    border-radius: 10px;
+    height: 400px;
+    width: 100.1%;
+    background-image: url(/images/uhdpaper.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    margin-right: -1px;
+}
